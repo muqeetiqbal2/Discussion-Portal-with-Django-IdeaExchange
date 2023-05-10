@@ -1,5 +1,5 @@
 # Discussion-Portal-with-Django (IdeaExchange)
-This is a web application that allows users to create discussion rooms, join existing rooms, and discuss topics of their interest. It is built with Django and implements user authentication, allowing only authenticated users to create and join rooms, and perform CRUD operations on their own discussions.
+This is a web application that allows users to create discussion room and join existing rooms' discussions. It is built with Django and implements user authentication, allowing only authenticated users to create rooms and join rooms' discussions, and perform CRUD operations on their own discussions and rooms.
 
 
 
