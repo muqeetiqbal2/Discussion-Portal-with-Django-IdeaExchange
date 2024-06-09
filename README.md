@@ -41,16 +41,13 @@ To run this application locally, follow these steps:
 3. Create a virtual environment:
 `python3 -m venv env`
 
-5. Activate the virtual environment:
+4. Activate the virtual environment:
 `source env/bin/activate`
-
-6. Install the requirements:
-`pip install -r requirements.txt`
  
-6. Set up the database:
+5. Set up the database:
 `python manage.py migrate`
 
-7. Run the server:
+6. Run the server:
 `python manage.py runserver`
 
 8. Open your web browser and navigate to http://localhost:8000/ to view the application.
